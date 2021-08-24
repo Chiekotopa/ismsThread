@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Administrateur.WIN-I3614B19KM9/Documents/iSMS/iSMS_libs/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/opensmpp-charset-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/opensmpp-client-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/opensmpp-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/opensmpp-sim-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/slf4j-api-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/slf4j-api-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/slf4j-jdk14-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/iSMS/iSMSThread/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
